@@ -31,12 +31,12 @@ This project analyzes **Blinkit's supply chain and inventory data** to derive ac
 
 | Phase | Description | Status |
 |---|---|---|
-| ✅ Phase 1 | Data Cleaning & Preprocessing | Done |
-| 🔄 Phase 2 | Exploratory Data Analysis (EDA) | In Progress |
-| ⏳ Phase 3 | SQL Multi-table Analysis | Pending |
-| ⏳ Phase 4 | Inventory Optimization (ABC + EOQ) | Pending |
-| ⏳ Phase 5 | Demand Forecasting (ML) | Pending |
-| ⏳ Phase 6 | Power BI Dashboard | Pending |
+| ✅ Phase 1 | Data Cleaning & Preprocessing | ✅ Complete |
+| ✅ Phase 2 | Exploratory Data Analysis (EDA) — 12 charts | ✅ Complete |
+| ✅ Phase 3 | SQL Multi-table Analysis — 15 queries | ✅ Complete |
+| ✅ Phase 4 | Inventory Optimization (ABC + EOQ + ROP) | ✅ Complete |
+| ✅ Phase 5 | Demand Forecasting (ML — RF, XGBoost, LR) | ✅ Complete |
+| ✅ Phase 6 | Power BI Dashboard — 6-page guide | ✅ Complete |
 
 ---
 
@@ -85,9 +85,32 @@ blinkit-supply-chain/
 
 ---
 
-## 📊 Key Insights (Updated as project progresses)
+## 📊 Key Insights Discovered
 
-> 🔄 *Insights will be added after each phase*
+| # | Insight | Business Impact |
+|---|---|---|
+| 1 | ABC-A products (≈20% of items) drive **70% of revenue** | Focus tight stock control on A items |
+| 2 | Perishable items have **significantly higher damage rates** | Reduce order quantity for short shelf-life products |
+| 3 | Late deliveries correlate directly with **lower ratings & negative sentiment** | Prioritize on-time SLA for high-value customers |
+| 4 | Multiple products have **min stock below their Reorder Point** — stock-out risk | Trigger immediate replenishment orders |
+| 5 | **Fruits & Vegetables** category has the highest damage loss (₹) | Optimize cold chain / delivery frequency |
+| 6 | ML best model achieves strong R² on demand prediction | Use forecasts to pre-position stock before weekends |
+| 7 | Weekend orders spike — **Saturday has peak demand** | Increase safety stock buffer on Fridays |
+
+## 📁 Output Files Generated
+
+| File | Description |
+|---|---|
+| `data/cleaned/*.csv` | 10 cleaned datasets ready for analysis |
+| `data/blinkit_supplychain.db` | SQLite database with all tables |
+| `outputs/charts/` | 19 analysis charts (PNG) |
+| `outputs/reports/abc_classification.csv` | ABC class per product |
+| `outputs/reports/inventory_optimization_report.csv` | EOQ + ROP + damage loss |
+| `outputs/reports/demand_forecast_30days.csv` | 30-day demand forecast |
+| `outputs/reports/ml_predictions.csv` | Model test predictions |
+| `outputs/reports/model_comparison_metrics.csv` | RMSE, MAE, R² for all models |
+| `sql/blinkit_queries.sql` | 15 portfolio-ready SQL queries |
+| `powerbi/POWERBI_DASHBOARD_GUIDE.md` | Full 6-page dashboard build guide |
 
 ---
 
