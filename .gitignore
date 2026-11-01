@@ -11,9 +11,11 @@ env/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
+# Root raw CSV files (cleaner root; raw copies kept in data/raw/)
+/*.csv
+/*.xlsx
+
 # Data files (large raw data - keep cleaned only)
-data/raw/*.csv
-data/raw/*.xlsx
 *.db
 
 # OS
