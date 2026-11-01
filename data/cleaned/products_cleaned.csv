@@ -1,0 +1,269 @@
+product_id,product_name,category,brand,price,mrp,margin_percentage,shelf_life_days,min_stock_level,max_stock_level,stock_range,discount_pct,is_perishable,revenue_potential
+153019,Onions,Fruits & Vegetables,Aurora Llc,947.95,1263.93,25.0,3,13,88,75,25.0,Yes,83419.6
+11422,Potatoes,Fruits & Vegetables,Ramaswamy-Tata,127.16,169.55,25.0,3,20,65,45,25.0,Yes,8265.4
+669378,Potatoes,Fruits & Vegetables,Chadha And Sons,212.14,282.85,25.0,3,23,70,47,25.0,Yes,14849.8
+848226,Tomatoes,Fruits & Vegetables,Barad And Sons,209.59,279.45,25.0,3,10,51,41,25.0,Yes,10689.09
+890623,Onions,Fruits & Vegetables,"Sangha, Nagar And Varty",354.52,472.69,25.0,3,27,55,28,25.0,Yes,19498.6
+965755,Bananas,Fruits & Vegetables,"Doshi, Sarraf And Sama",532.57,710.09,25.0,3,21,91,70,25.0,Yes,48463.87
+222892,Tomatoes,Fruits & Vegetables,Ramakrishnan-Ghose,869.22,1158.96,25.0,3,28,88,60,25.0,Yes,76491.36
+516376,Onions,Fruits & Vegetables,Agarwal-Dhar,877.43,1169.91,25.0,3,21,71,50,25.0,Yes,62297.53
+39154,Mangoes,Fruits & Vegetables,"Suresh, Bose And Bajwa",946.86,1262.48,25.0,3,21,84,63,25.0,Yes,79536.24
+34186,Mangoes,Fruits & Vegetables,Mandal-Kar,925.65,1234.2,25.0,3,27,74,47,25.0,Yes,68498.1
+196719,Bananas,Fruits & Vegetables,Yogi Group,217.5,290.0,25.0,3,15,91,76,25.0,Yes,19792.5
+478531,Carrots,Fruits & Vegetables,Uppal Group,825.46,1100.61,25.0,3,24,90,66,25.0,Yes,74291.4
+812607,Potatoes,Fruits & Vegetables,Rege Group,416.65,555.53,25.0,3,11,63,52,25.0,Yes,26248.95
+818990,Tomatoes,Fruits & Vegetables,Dugar Group,163.55,218.07,25.0,3,22,92,70,25.0,Yes,15046.6
+14145,Spinach,Fruits & Vegetables,"Thakur, Shah And Pingle",630.84,841.12,25.0,3,14,53,39,25.0,Yes,33434.52
+349294,Onions,Fruits & Vegetables,Ganesan Ltd,934.75,1246.33,25.0,3,25,70,45,25.0,Yes,65432.5
+847349,Potatoes,Fruits & Vegetables,Chhabra-Agrawal,781.08,1041.44,25.0,3,26,69,43,25.0,Yes,53894.52
+871592,Carrots,Fruits & Vegetables,"Shankar, Nadkarni And Kumer",870.29,1160.39,25.0,3,25,50,25,25.0,Yes,43514.5
+284460,Potatoes,Fruits & Vegetables,"Ramakrishnan, Anand And Khare",505.95,674.6,25.0,3,21,85,64,25.0,Yes,43005.75
+473929,Carrots,Fruits & Vegetables,"Bhardwaj, Bhatia And Deshmukh",440.19,586.92,25.0,3,19,70,51,25.0,Yes,30813.3
+77308,Onions,Fruits & Vegetables,Ratta-Sagar,223.27,297.69,25.0,3,29,91,62,25.0,Yes,20317.57
+654297,Potatoes,Fruits & Vegetables,Chandran-Dass,13.25,17.67,25.0,3,20,86,66,25.01,Yes,1139.5
+70969,Carrots,Fruits & Vegetables,Mohan Group,631.7,842.27,25.0,3,25,96,71,25.0,Yes,60643.2
+552883,Potatoes,Fruits & Vegetables,"Balan, Patel And Mall",888.16,1184.21,25.0,3,18,94,76,25.0,Yes,83487.04
+952124,Onions,Fruits & Vegetables,"Wali, Sood And Bala",127.08,169.44,25.0,3,15,50,35,25.0,Yes,6354.0
+397973,Bananas,Fruits & Vegetables,"Wable, Randhawa And Mutti",728.73,971.64,25.0,3,27,82,55,25.0,Yes,59755.86
+555121,Carrots,Fruits & Vegetables,"Subramanian, Chaudhuri And Dora",354.91,473.21,25.0,3,30,67,37,25.0,Yes,23778.97
+818522,Cheese,Dairy & Breakfast,Hora-Roy,96.09,120.11,20.0,7,12,90,78,20.0,Yes,8648.1
+462526,Curd,Dairy & Breakfast,Pau And Sons,449.97,562.46,20.0,7,25,69,44,20.0,Yes,31047.93
+376447,Butter,Dairy & Breakfast,Gara And Sons,724.84,906.05,20.0,7,17,64,47,20.0,Yes,46389.76
+217710,Eggs,Dairy & Breakfast,Rout-Sarna,58.59,73.24,20.0,7,19,53,34,20.0,Yes,3105.27
+146840,Bread,Dairy & Breakfast,"Bains, Deol And Vaidya",786.85,983.56,20.0,7,19,89,70,20.0,Yes,70029.65
+89084,Milk,Dairy & Breakfast,"Wali, Virk And Iyer",598.83,748.54,20.0,7,27,74,47,20.0,Yes,44313.42
+888807,Bread,Dairy & Breakfast,Arya Group,230.58,288.23,20.0,7,13,91,78,20.0,Yes,20982.78
+136533,Eggs,Dairy & Breakfast,"Raghavan, Magar And Shanker",826.21,1032.76,20.0,7,15,75,60,20.0,Yes,61965.75
+714999,Bread,Dairy & Breakfast,Kala Group,882.51,1103.14,20.0,7,27,81,54,20.0,Yes,71483.31
+382511,Butter,Dairy & Breakfast,Bora-Thakkar,702.54,878.17,20.0,7,26,88,62,20.0,Yes,61823.52
+15314,Cheese,Dairy & Breakfast,Banik-Ratta,578.85,723.56,20.0,7,30,91,61,20.0,Yes,52675.35
+67197,Butter,Dairy & Breakfast,Shetty-Bora,552.2,690.25,20.0,7,20,79,59,20.0,Yes,43623.8
+880510,Bread,Dairy & Breakfast,Roy-Char,951.43,1189.29,20.0,7,29,54,25,20.0,Yes,51377.22
+41853,Curd,Dairy & Breakfast,Handa Plc,910.44,1138.05,20.0,7,14,92,78,20.0,Yes,83760.48
+257719,Eggs,Dairy & Breakfast,Chaudhuri Plc,281.73,352.16,20.0,7,17,93,76,20.0,Yes,26200.89
+891833,Curd,Dairy & Breakfast,Mani Plc,493.19,616.49,20.0,7,11,69,58,20.0,Yes,34030.11
+741341,Eggs,Dairy & Breakfast,Prasad Llc,923.84,1154.8,20.0,7,13,62,49,20.0,Yes,57278.08
+500739,Bread,Dairy & Breakfast,Aggarwal Group,359.98,449.98,20.0,7,18,81,63,20.0,Yes,29158.38
+500633,Cereal,Dairy & Breakfast,Trivedi-Ahluwalia,154.5,193.12,20.0,7,24,87,63,20.0,Yes,13441.5
+799952,Cheese,Dairy & Breakfast,Padmanabhan-Virk,922.64,1153.3,20.0,7,13,66,53,20.0,Yes,60894.24
+798639,Eggs,Dairy & Breakfast,Subramaniam Llc,211.25,264.06,20.0,7,12,78,66,20.0,Yes,16477.5
+329351,Cheese,Dairy & Breakfast,"Lala, Kalita And Sathe",310.87,388.59,20.0,7,23,95,72,20.0,Yes,29532.65
+833557,Cereal,Dairy & Breakfast,"Gole, Chand And Dada",422.87,528.59,20.0,7,27,69,42,20.0,Yes,29178.03
+324809,Bread,Dairy & Breakfast,Sidhu Plc,608.0,760.0,20.0,7,26,76,50,20.0,Yes,46208.0
+337168,Eggs,Dairy & Breakfast,Dasgupta Plc,545.49,681.86,20.0,7,25,98,73,20.0,Yes,53458.02
+659290,Cheese,Dairy & Breakfast,Kapadia-D’Alia,319.34,399.17,20.0,7,18,66,48,20.0,Yes,21076.44
+883013,Eggs,Dairy & Breakfast,Chahal Group,989.88,1237.35,20.0,7,13,98,85,20.0,Yes,97008.24
+839170,Curd,Dairy & Breakfast,Shetty And Sons,481.63,602.04,20.0,7,11,59,48,20.0,Yes,28416.17
+455083,Butter,Dairy & Breakfast,Dutta Inc,959.01,1198.76,20.0,7,29,63,34,20.0,Yes,60417.63
+183929,Bread,Dairy & Breakfast,"Nagi, Sampath And Khurana",738.74,923.42,20.0,7,20,73,53,20.0,Yes,53928.02
+592784,Biscuits,Snacks & Munchies,"Andra, Mander And Kari",280.35,431.31,35.0,90,27,64,37,35.0,No,17942.4
+578097,Nuts,Snacks & Munchies,Jha Group,267.61,411.71,35.0,90,22,75,53,35.0,No,20070.75
+487065,Chips,Snacks & Munchies,Kadakia-Yadav,374.68,576.43,35.0,90,27,87,60,35.0,No,32597.16
+734789,Popcorn,Snacks & Munchies,"Chaudhari, Pant And Singh",395.82,608.95,35.0,90,22,66,44,35.0,No,26124.12
+949818,Biscuits,Snacks & Munchies,Yohannan Inc,483.05,743.15,35.0,90,21,76,55,35.0,No,36711.8
+690565,Cookies,Snacks & Munchies,"Roy, Seth And Patla",951.27,1463.49,35.0,90,15,56,41,35.0,No,53271.12
+961614,Chocolates,Snacks & Munchies,Goda Inc,227.22,349.57,35.0,90,26,99,73,35.0,No,22494.78
+361361,Biscuits,Snacks & Munchies,"Kunda, Dave And Sahni",826.21,1271.09,35.0,90,20,64,44,35.0,No,52877.44
+291238,Chocolates,Snacks & Munchies,"Sinha, Pau And Chhabra",746.03,1147.74,35.0,90,16,68,52,35.0,No,50730.04
+654623,Chips,Snacks & Munchies,Pradhan And Sons,422.14,649.45,35.0,90,18,76,58,35.0,No,32082.64
+313754,Biscuits,Snacks & Munchies,"Swaminathan, Mahal And Dara",136.6,210.15,35.0,90,25,67,42,35.0,No,9152.2
+563740,Chips,Snacks & Munchies,Mann-Kapadia,96.33,148.2,35.0,90,20,61,41,35.0,No,5876.13
+378230,Nuts,Snacks & Munchies,Kala-Vig,166.42,256.03,35.0,90,13,76,63,35.0,No,12647.92
+658389,Popcorn,Snacks & Munchies,"Chanda, Som And Vohra",152.55,234.69,35.0,90,22,68,46,35.0,No,10373.4
+990993,Chocolates,Snacks & Munchies,Guha-Subramaniam,263.7,405.69,35.0,90,22,61,39,35.0,No,16085.7
+762527,Biscuits,Snacks & Munchies,"Chad, Yohannan And Chopra",690.08,1061.66,35.0,90,23,71,48,35.0,No,48995.68
+952168,Popcorn,Snacks & Munchies,"Krishnamurthy, Sibal And Das",236.95,364.54,35.0,90,28,79,51,35.0,No,18719.05
+542300,Popcorn,Snacks & Munchies,Gulati-Tandon,255.35,392.85,35.0,90,11,66,55,35.0,No,16853.1
+602241,Nuts,Snacks & Munchies,Bahl-Pau,976.55,1502.38,35.0,90,12,75,63,35.0,No,73241.25
+587420,Cookies,Snacks & Munchies,Raj And Sons,357.42,549.88,35.0,90,22,50,28,35.0,No,17871.0
+491521,Nuts,Snacks & Munchies,Karpe Inc,556.35,855.92,35.0,90,28,98,70,35.0,No,54522.3
+914071,Chips,Snacks & Munchies,Datta Ltd,296.94,456.83,35.0,90,25,90,65,35.0,No,26724.6
+832348,Biscuits,Snacks & Munchies,Jani-Ram,831.43,1279.12,35.0,90,10,79,69,35.0,No,65682.97
+567671,Biscuits,Snacks & Munchies,Nagar Llc,418.48,643.82,35.0,90,12,90,78,35.0,No,37663.2
+481843,Chocolates,Snacks & Munchies,"Taneja, Kala And Kota",297.68,457.97,35.0,90,10,88,78,35.0,No,26195.84
+991434,Cookies,Snacks & Munchies,Mital-Oza,237.62,365.57,35.0,90,12,87,75,35.0,No,20672.94
+540618,Popcorn,Snacks & Munchies,Golla-Luthra,317.05,487.77,35.0,90,28,87,59,35.0,No,27583.35
+319388,Orange Juice,Cold Drinks & Juices,D’Alia-Dey,657.8,939.71,30.0,180,26,56,30,30.0,No,36836.8
+171602,Cola,Cold Drinks & Juices,Pal-Sehgal,883.44,1262.06,30.0,180,28,58,30,30.0,No,51239.52
+60619,Iced Tea,Cold Drinks & Juices,Bhasin Llc,726.41,1037.73,30.0,180,10,97,87,30.0,No,70461.77
+962591,Orange Juice,Cold Drinks & Juices,Murthy-Kaul,130.01,185.73,30.0,180,24,74,50,30.0,No,9620.74
+107548,Cola,Cold Drinks & Juices,"Bhandari, Bhasin And Palan",891.6,1273.71,30.0,180,27,53,26,30.0,No,47254.8
+687218,Mango Drink,Cold Drinks & Juices,"Sankaran, Pall And Gola",317.82,454.03,30.0,180,22,58,36,30.0,No,18433.56
+328457,Mango Drink,Cold Drinks & Juices,Hayre-Shere,858.57,1226.53,30.0,180,12,76,64,30.0,No,65251.32
+194682,Iced Tea,Cold Drinks & Juices,Sastry-Issac,912.29,1303.27,30.0,180,11,86,75,30.0,No,78456.94
+681063,Mango Drink,Cold Drinks & Juices,Dass And Sons,321.28,458.97,30.0,180,20,91,71,30.0,No,29236.48
+679321,Cola,Cold Drinks & Juices,Khurana-Dewan,738.46,1054.94,30.0,180,20,68,48,30.0,No,50215.28
+300159,Cola,Cold Drinks & Juices,"Basu, Rout And Mistry",44.35,63.36,30.0,180,20,93,73,30.0,No,4124.55
+378287,Lemonade,Cold Drinks & Juices,Ramesh-Jain,332.84,475.49,30.0,180,22,51,29,30.0,No,16974.84
+118820,Iced Tea,Cold Drinks & Juices,"Warrior, Ravel And Amble",12.32,17.6,30.0,180,12,61,49,30.0,No,751.52
+667163,Orange Juice,Cold Drinks & Juices,Palla Llc,441.2,630.29,30.0,180,25,72,47,30.0,No,31766.4
+228286,Cola,Cold Drinks & Juices,Bhattacharyya Plc,179.08,255.83,30.0,180,26,79,53,30.0,No,14147.32
+561860,Orange Juice,Cold Drinks & Juices,Gupta Ltd,874.78,1249.69,30.0,180,21,90,69,30.0,No,78730.2
+712003,Cola,Cold Drinks & Juices,"Karan, Bandi And Acharya",671.68,959.54,30.0,180,30,54,24,30.0,No,36270.72
+712307,Orange Juice,Cold Drinks & Juices,Chana Llc,264.89,378.41,30.0,180,16,73,57,30.0,No,19336.97
+513199,Cola,Cold Drinks & Juices,Rastogi Inc,422.23,603.19,30.0,180,26,52,26,30.0,No,21955.96
+962054,Orange Juice,Cold Drinks & Juices,Toor-Nagar,16.86,24.09,30.0,180,11,74,63,30.01,No,1247.64
+378676,Orange Juice,Cold Drinks & Juices,Baral-Kamdar,881.42,1259.17,30.0,180,19,65,46,30.0,No,57292.3
+890232,Mango Drink,Cold Drinks & Juices,Jha Group,432.0,617.14,30.0,180,20,91,71,30.0,No,39312.0
+532965,Frozen Pizza,Instant & Frozen Food,Sachdev Inc,307.23,512.05,40.0,180,20,94,74,40.0,No,28879.62
+365132,Instant Noodles,Instant & Frozen Food,Dar-Kumar,229.38,382.3,40.0,180,19,70,51,40.0,No,16056.6
+689769,Frozen Vegetables,Instant & Frozen Food,Kothari-Datta,46.62,77.7,40.0,180,17,51,34,40.0,No,2377.62
+969851,Frozen Vegetables,Instant & Frozen Food,"Kara, Sodhi And Bassi",340.66,567.77,40.0,180,27,64,37,40.0,No,21802.24
+305754,Frozen Vegetables,Instant & Frozen Food,Mammen-Hegde,979.99,1633.32,40.0,180,22,81,59,40.0,No,79379.19
+398340,Instant Noodles,Instant & Frozen Food,"Nadig, Zachariah And Soni",651.93,1086.55,40.0,180,11,56,45,40.0,No,36508.08
+491314,Ice Cream,Instant & Frozen Food,Banerjee Inc,973.44,1622.4,40.0,180,11,71,60,40.0,No,69114.24
+33955,Frozen Pizza,Instant & Frozen Food,Baral Group,186.08,310.13,40.0,180,29,84,55,40.0,No,15630.72
+470449,Frozen Biryani,Instant & Frozen Food,Kohli-Sawhney,827.77,1379.62,40.0,180,27,57,30,40.0,No,47182.89
+954722,Ice Cream,Instant & Frozen Food,Mohan-Virk,616.45,1027.42,40.0,180,11,58,47,40.0,No,35754.1
+623234,Frozen Biryani,Instant & Frozen Food,Chakrabarti-Batra,329.79,549.65,40.0,180,13,72,59,40.0,No,23744.88
+131937,Frozen Pizza,Instant & Frozen Food,"Varkey, Devi And Ganguly",287.81,479.68,40.0,180,18,68,50,40.0,No,19571.08
+606256,Frozen Biryani,Instant & Frozen Food,Agate Ltd,369.28,615.47,40.0,180,16,57,41,40.0,No,21048.96
+652118,Frozen Biryani,Instant & Frozen Food,Agate And Sons,22.04,36.73,40.0,180,19,55,36,39.99,No,1212.2
+187399,Frozen Pizza,Instant & Frozen Food,Chauhan Inc,53.49,89.15,40.0,180,14,73,59,40.0,No,3904.77
+925482,Frozen Biryani,Instant & Frozen Food,Viswanathan-Sha,475.04,791.73,40.0,180,23,66,43,40.0,No,31352.64
+611575,Frozen Pizza,Instant & Frozen Food,"Bhat, Nigam And Hayer",482.06,803.43,40.0,180,25,87,62,40.0,No,41939.22
+621677,Frozen Biryani,Instant & Frozen Food,Sabharwal-Mital,317.8,529.67,40.0,180,15,71,56,40.0,No,22563.8
+306177,Frozen Biryani,Instant & Frozen Food,Som Inc,769.24,1282.07,40.0,180,11,54,43,40.0,No,41538.96
+272170,Ice Cream,Instant & Frozen Food,Purohit Group,140.8,234.67,40.0,180,10,92,82,40.0,No,12953.6
+721521,Rice,Grocery & Staples,"Ramanathan, Agarwal And Baria",417.39,491.05,15.0,365,20,72,52,15.0,No,30052.08
+692985,Pulses,Grocery & Staples,"Wable, Sankaran And Hari",197.39,232.22,15.0,365,30,86,56,15.0,No,16975.54
+487931,Sugar,Grocery & Staples,"Bahl, Jaggi And Nath",709.08,834.21,15.0,365,27,68,41,15.0,No,48217.44
+901144,Sugar,Grocery & Staples,Deo-Kamdar,340.36,400.42,15.0,365,12,71,59,15.0,No,24165.56
+764014,Salt,Grocery & Staples,"Grewal, Swamy And Dayal",612.04,720.05,15.0,365,30,100,70,15.0,No,61204.0
+53833,Rice,Grocery & Staples,Tella-Master,134.69,158.46,15.0,365,26,89,63,15.0,No,11987.41
+876139,Pulses,Grocery & Staples,Cherian-Dara,415.75,489.12,15.0,365,14,83,69,15.0,No,34507.25
+903336,Pulses,Grocery & Staples,"Vaidya, Amble And Palla",551.88,649.27,15.0,365,14,60,46,15.0,No,33112.8
+120532,Wheat Flour,Grocery & Staples,Nazareth Ltd,697.53,820.62,15.0,365,29,95,66,15.0,No,66265.35
+945635,Pulses,Grocery & Staples,Balasubramanian Plc,778.9,916.35,15.0,365,16,59,43,15.0,No,45955.1
+760684,Rice,Grocery & Staples,Kanda-Gupta,71.6,84.24,15.0,365,14,64,50,15.0,No,4582.4
+354409,Pulses,Grocery & Staples,Bose-Pandit,325.08,382.45,15.0,365,24,60,36,15.0,No,19504.8
+937542,Wheat Flour,Grocery & Staples,Khurana And Sons,97.04,114.16,15.0,365,28,93,65,15.0,No,9024.72
+490602,Sugar,Grocery & Staples,Raghavan Inc,549.47,646.44,15.0,365,20,71,51,15.0,No,39012.37
+131136,Salt,Grocery & Staples,Deshpande-Rama,37.8,44.47,15.0,365,29,95,66,15.0,No,3591.0
+287070,Wheat Flour,Grocery & Staples,"Gala, Magar And Rajagopal",443.17,521.38,15.0,365,20,93,73,15.0,No,41214.81
+679865,Wheat Flour,Grocery & Staples,Memon-Barad,347.91,409.31,15.0,365,14,85,71,15.0,No,29572.35
+317242,Pulses,Grocery & Staples,Rastogi Group,198.15,233.12,15.0,365,22,63,41,15.0,No,12483.45
+644847,Salt,Grocery & Staples,"Jhaveri, Kata And Kapur",622.81,732.72,15.0,365,24,52,28,15.0,No,32386.12
+327290,Sugar,Grocery & Staples,Nadkarni Inc,862.28,1014.45,15.0,365,22,65,43,15.0,No,56048.2
+993331,Pulses,Grocery & Staples,"Parmer, Gola And Yogi",102.44,120.52,15.0,365,28,86,58,15.0,No,8809.84
+807452,Pulses,Grocery & Staples,Naik Ltd,144.19,169.64,15.0,365,27,61,34,15.0,No,8795.59
+451933,Wheat Flour,Grocery & Staples,Nadig Ltd,568.94,669.34,15.0,365,28,98,70,15.0,No,55756.12
+461804,Sugar,Grocery & Staples,"Ghose, Ben And Divan",310.69,365.52,15.0,365,15,97,82,15.0,No,30136.93
+36412,Dish Soap,Household Care,Muni-Shankar,397.68,530.24,25.0,365,27,92,65,25.0,No,36586.56
+94225,Toilet Cleaner,Household Care,"Gulati, Ram And Sarkar",77.11,102.81,25.0,365,13,70,57,25.0,No,5397.7
+704868,Detergent,Household Care,"Parikh, Oak And Kara",193.46,257.95,25.0,365,24,58,34,25.0,No,11220.68
+18035,Dish Soap,Household Care,Ramesh Inc,968.94,1291.92,25.0,365,12,87,75,25.0,No,84297.78
+435929,Toilet Cleaner,Household Care,Memon Ltd,856.89,1142.52,25.0,365,13,71,58,25.0,No,60839.19
+820541,Toilet Cleaner,Household Care,"Borde, Peri And Upadhyay",576.22,768.29,25.0,365,19,71,52,25.0,No,40911.62
+552496,Dish Soap,Household Care,Dhar Plc,508.0,677.33,25.0,365,17,59,42,25.0,No,29972.0
+455755,Detergent,Household Care,Mangal-Sathe,44.09,58.79,25.0,365,23,53,30,25.0,No,2336.77
+91670,Dish Soap,Household Care,Barman-Ahluwalia,439.24,585.65,25.0,365,27,88,61,25.0,No,38653.12
+336847,Toilet Cleaner,Household Care,"Dayal, Mammen And More",936.98,1249.31,25.0,365,17,55,38,25.0,No,51533.9
+144124,Detergent,Household Care,Lalla-Srinivasan,162.67,216.89,25.0,365,11,82,71,25.0,No,13338.94
+747801,Toilet Cleaner,Household Care,Saha-Vora,277.76,370.35,25.0,365,23,71,48,25.0,No,19720.96
+589812,Detergent,Household Care,Bir Plc,163.03,217.37,25.0,365,22,52,30,25.0,No,8477.56
+677542,Toilet Cleaner,Household Care,Thaman-Lanka,212.61,283.48,25.0,365,10,52,42,25.0,No,11055.72
+604184,Toilet Cleaner,Household Care,"Gaba, Sodhi And Choudhary",397.55,530.07,25.0,365,24,84,60,25.0,No,33394.2
+697683,Toilet Cleaner,Household Care,"Murty, Varghese And Saxena",123.74,164.99,25.0,365,14,82,68,25.0,No,10146.68
+894539,Dish Soap,Household Care,"Pall, Sule And Sood",445.48,593.97,25.0,365,14,93,79,25.0,No,41429.64
+739534,Toilet Cleaner,Household Care,"Gera, Narang And Karpe",994.56,1326.08,25.0,365,14,59,45,25.0,No,58679.04
+968887,Dish Soap,Household Care,Keer-Gill,40.7,54.27,25.0,365,18,92,74,25.0,No,3744.4
+709916,Detergent,Household Care,Varkey Llc,33.76,45.01,25.0,365,30,88,58,24.99,No,2970.88
+739448,Dish Soap,Household Care,Mand-Choudhry,755.66,1007.55,25.0,365,24,79,55,25.0,No,59697.14
+700048,Dish Soap,Household Care,Khalsa-Bhavsar,141.28,188.37,25.0,365,25,98,73,25.0,No,13845.44
+897083,Detergent,Household Care,Dutta-Halder,972.69,1296.92,25.0,365,10,100,90,25.0,No,97269.0
+448752,Toilet Cleaner,Household Care,Batta-Doctor,160.07,213.43,25.0,365,23,96,73,25.0,No,15366.72
+365133,Dish Soap,Household Care,Hans Inc,915.45,1220.6,25.0,365,25,60,35,25.0,No,54927.0
+133542,Detergent,Household Care,Edwin-Lall,68.49,91.32,25.0,365,21,72,51,25.0,No,4931.28
+767398,Dish Soap,Household Care,"Arya, Sundaram And Pingle",22.14,29.52,25.0,365,15,57,42,25.0,No,1261.98
+863930,Shampoo,Personal Care,"Sathe, Agarwal And Dhar",242.57,373.18,35.0,365,26,72,46,35.0,No,17465.04
+473647,Toothpaste,Personal Care,Ben-Ravi,43.05,66.23,35.0,365,18,82,64,35.0,No,3530.1
+9436,Toothpaste,Personal Care,Naidu Plc,88.43,136.05,35.0,365,19,76,57,35.0,No,6720.68
+385113,Lotion,Personal Care,"Sampath, Mane And Mody",816.38,1255.97,35.0,365,21,50,29,35.0,No,40819.0
+112390,Toothpaste,Personal Care,"Kibe, Contractor And Randhawa",877.98,1350.74,35.0,365,23,85,62,35.0,No,74628.3
+647462,Lotion,Personal Care,"Balan, Samra And Sekhon",326.42,502.18,35.0,365,22,64,42,35.0,No,20890.88
+34200,Lotion,Personal Care,Munshi-Grewal,319.8,492.0,35.0,365,19,75,56,35.0,No,23985.0
+753354,Shampoo,Personal Care,Sant-Mahajan,423.56,651.63,35.0,365,20,52,32,35.0,No,22025.12
+490939,Lotion,Personal Care,"Roy, Barad And De",80.25,123.46,35.0,365,12,67,55,35.0,No,5376.75
+672059,Toothpaste,Personal Care,Kaur-Gola,672.73,1034.97,35.0,365,25,81,56,35.0,No,54491.13
+803607,Soap,Personal Care,"Kadakia, Mohan And Sathe",949.73,1461.12,35.0,365,21,98,77,35.0,No,93073.54
+124290,Lotion,Personal Care,Sachdev Group,39.65,61.0,35.0,365,23,71,48,35.0,No,2815.15
+140489,Soap,Personal Care,"Biswas, Kapoor And Patel",650.2,1000.31,35.0,365,28,95,67,35.0,No,61769.0
+799688,Lotion,Personal Care,Arora Llc,309.62,476.34,35.0,365,22,90,68,35.0,No,27865.8
+859361,Shampoo,Personal Care,Mitter Group,432.39,665.22,35.0,365,25,77,52,35.0,No,33294.03
+492958,Lotion,Personal Care,Acharya Plc,84.2,129.54,35.0,365,26,88,62,35.0,No,7409.6
+63769,Lotion,Personal Care,Dalal-Shan,878.07,1350.88,35.0,365,27,69,42,35.0,No,60586.83
+684939,Lotion,Personal Care,"Sibal, Bhatnagar And Rajan",727.95,1119.92,35.0,365,22,50,28,35.0,No,36397.5
+219598,Shampoo,Personal Care,Arora-Magar,367.08,564.74,35.0,365,28,83,55,35.0,No,30467.64
+140154,Shampoo,Personal Care,Malhotra Llc,171.2,263.38,35.0,365,24,59,35,35.0,No,10100.8
+449106,Soap,Personal Care,"Shere, Thakur And Naik",48.55,74.69,35.0,365,30,95,65,35.0,No,4612.25
+256051,Lotion,Personal Care,"Mannan, Naidu And Sama",400.92,616.8,35.0,365,17,100,83,35.0,No,40092.0
+615545,Soap,Personal Care,Barman Inc,448.16,689.48,35.0,365,20,67,47,35.0,No,30026.72
+366066,Soap,Personal Care,Mandal Llc,918.58,1413.2,35.0,365,16,52,36,35.0,No,47766.16
+600767,Toothpaste,Personal Care,Balan Group,722.42,1111.42,35.0,365,22,68,46,35.0,No,49124.56
+784827,Baby Wipes,Baby Care,Balakrishnan Ltd,274.25,391.79,30.0,365,26,77,51,30.0,No,21117.25
+6405,Baby Food,Baby Care,Kashyap-Reddy,236.51,337.87,30.0,365,11,81,70,30.0,No,19157.31
+853932,Baby Wipes,Baby Care,Ranganathan-Peri,941.19,1344.56,30.0,365,21,94,73,30.0,No,88471.86
+970529,Diapers,Baby Care,"Kurian, Patla And Sanghvi",827.44,1182.06,30.0,365,19,84,65,30.0,No,69504.96
+51036,Baby Food,Baby Care,Karnik Plc,931.61,1330.87,30.0,365,12,86,74,30.0,No,80118.46
+820973,Baby Wipes,Baby Care,Lall Llc,114.52,163.6,30.0,365,29,56,27,30.0,No,6413.12
+367391,Baby Wipes,Baby Care,Talwar And Sons,939.55,1342.21,30.0,365,18,52,34,30.0,No,48856.6
+433521,Diapers,Baby Care,Mahal Group,321.33,459.04,30.0,365,27,58,31,30.0,No,18637.14
+927651,Baby Wipes,Baby Care,Narula Group,426.72,609.6,30.0,365,15,60,45,30.0,No,25603.2
+930284,Baby Food,Baby Care,"Garg, Saraf And Dutta",189.47,270.67,30.0,365,20,58,38,30.0,No,10989.26
+4452,Baby Wipes,Baby Care,Morar-Mistry,169.88,242.69,30.0,365,27,100,73,30.0,No,16988.0
+82484,Baby Food,Baby Care,Mallick Plc,914.88,1306.97,30.0,365,12,73,61,30.0,No,66786.24
+440875,Baby Wipes,Baby Care,Loyal Inc,275.03,392.9,30.0,365,15,80,65,30.0,No,22002.4
+432617,Baby Wipes,Baby Care,Dora-Pillai,863.18,1233.11,30.0,365,17,97,80,30.0,No,83728.46
+953175,Baby Food,Baby Care,Sehgal-Nagarajan,225.21,321.73,30.0,365,11,73,62,30.0,No,16440.33
+57405,Baby Food,Baby Care,Srinivas Plc,607.67,868.1,30.0,365,21,64,43,30.0,No,38890.88
+707935,Cat Food,Pet Care,"Anne, Mammen And Khatri",820.9,1262.92,35.0,365,30,97,67,35.0,No,79627.3
+942001,Cat Food,Pet Care,Acharya Ltd,671.55,1033.15,35.0,365,20,84,64,35.0,No,56410.2
+585299,Pet Treats,Pet Care,"Sharma, Chandra And Prashad",799.46,1229.94,35.0,365,13,50,37,35.0,No,39973.0
+120385,Pet Treats,Pet Care,Dubey-Sarin,597.91,919.86,35.0,365,28,73,45,35.0,No,43647.43
+52729,Cat Food,Pet Care,Saini Llc,316.02,486.18,35.0,365,25,100,75,35.0,No,31602.0
+661577,Cat Food,Pet Care,Majumdar Plc,720.95,1109.15,35.0,365,28,95,67,35.0,No,68490.25
+951463,Pet Treats,Pet Care,Balakrishnan-Kaur,787.4,1211.38,35.0,365,16,82,66,35.0,No,64566.8
+373536,Dog Food,Pet Care,Chauhan-Sabharwal,494.17,760.26,35.0,365,14,64,50,35.0,No,31626.88
+243235,Cat Food,Pet Care,Batta Inc,109.03,167.74,35.0,365,14,71,57,35.0,No,7741.13
+564692,Cat Food,Pet Care,"Krishna, Bail And Dyal",215.65,331.77,35.0,365,25,82,57,35.0,No,17683.3
+131748,Dog Food,Pet Care,"Shroff, Wason And Dugar",81.35,125.15,35.0,365,30,53,23,35.0,No,4311.55
+256783,Pet Treats,Pet Care,"Basu, Thakur And Rege",906.54,1394.68,35.0,365,16,98,82,35.0,No,88840.92
+186168,Dog Food,Pet Care,"Parekh, Lad And Kadakia",878.8,1352.0,35.0,365,13,75,62,35.0,No,65910.0
+537274,Pet Treats,Pet Care,Lal-Chauhan,702.71,1081.09,35.0,365,17,67,50,35.0,No,47081.57
+525531,Dog Food,Pet Care,Sandal Plc,831.1,1278.62,35.0,365,28,65,37,35.0,No,54021.5
+913428,Pet Treats,Pet Care,Narayanan-Kumar,392.22,603.42,35.0,365,30,98,68,35.0,No,38437.56
+757274,Pet Treats,Pet Care,"Minhas, Kapoor And Sethi",98.32,151.26,35.0,365,27,95,68,35.0,No,9340.4
+726958,Cat Food,Pet Care,Doctor-Patla,887.48,1365.35,35.0,365,18,79,61,35.0,No,70110.92
+642612,Pet Treats,Pet Care,Pillay-Ahuja,517.03,795.43,35.0,365,16,57,41,35.0,No,29470.71
+613942,Pet Treats,Pet Care,"Dyal, Saraf And Goel",545.0,838.46,35.0,365,28,72,44,35.0,No,39240.0
+784673,Dog Food,Pet Care,Ramanathan Group,491.39,755.98,35.0,365,21,84,63,35.0,No,41276.76
+425341,Pet Treats,Pet Care,"Mani, Dhar And Muni",486.28,748.12,35.0,365,21,68,47,35.0,No,33067.04
+771228,Pet Treats,Pet Care,Raja And Sons,83.18,127.97,35.0,365,25,73,48,35.0,No,6072.14
+760828,Pet Treats,Pet Care,"Khurana, Khosla And Yohannan",563.45,866.85,35.0,365,23,93,70,35.0,No,52400.85
+723678,Dog Food,Pet Care,"Lall, Datta And Swamy",675.46,1039.17,35.0,365,14,97,83,35.0,No,65519.62
+451812,Pain Reliever,Pharmacy,"Batra, Sant And Mandal",530.85,663.56,20.0,365,29,63,34,20.0,No,33443.55
+677169,Cough Syrup,Pharmacy,Char-Divan,261.03,326.29,20.0,365,12,77,65,20.0,No,20099.31
+274207,Cough Syrup,Pharmacy,"Savant, Batta And Mander",328.51,410.64,20.0,365,25,51,26,20.0,No,16754.01
+706112,Vitamins,Pharmacy,"Magar, Gara And Garg",478.79,598.49,20.0,365,12,77,65,20.0,No,36866.83
+557908,Vitamins,Pharmacy,Sundaram Inc,942.37,1177.96,20.0,365,14,53,39,20.0,No,49945.61
+587645,Vitamins,Pharmacy,"Sura, Pillay And Mammen",801.81,1002.26,20.0,365,18,90,72,20.0,No,72162.9
+837480,Cough Syrup,Pharmacy,Edwin And Sons,217.4,271.75,20.0,365,22,82,60,20.0,No,17826.8
+566052,Pain Reliever,Pharmacy,"Apte, Soman And Raju",87.3,109.12,20.0,365,14,53,39,20.0,No,4626.9
+137909,Cough Syrup,Pharmacy,Dalal Plc,864.3,1080.37,20.0,365,23,65,42,20.0,No,56179.5
+799459,Vitamins,Pharmacy,"Garg, Kari And Kapur",852.02,1065.02,20.0,365,29,66,37,20.0,No,56233.32
+264803,Vitamins,Pharmacy,Gole-Doshi,995.98,1244.97,20.0,365,17,69,52,20.0,No,68722.62
+851978,Vitamins,Pharmacy,Parsa-Bala,715.72,894.65,20.0,365,28,92,64,20.0,No,65846.24
+992178,Pain Reliever,Pharmacy,Basu And Sons,632.43,790.54,20.0,365,16,89,73,20.0,No,56286.27
+56589,Vitamins,Pharmacy,"Pai, Kashyap And Ramachandran",517.77,647.21,20.0,365,16,85,69,20.0,No,44010.45
+26060,Vitamins,Pharmacy,Shah And Sons,342.94,428.67,20.0,365,25,57,32,20.0,No,19547.58
+33797,Pain Reliever,Pharmacy,Gaba Llc,888.12,1110.15,20.0,365,12,51,39,20.0,No,45294.12
+123983,Cough Syrup,Pharmacy,Kurian-Chhabra,785.67,982.09,20.0,365,25,72,47,20.0,No,56568.24
+237083,Cough Syrup,Pharmacy,Hayer-Banerjee,577.13,721.41,20.0,365,24,86,62,20.0,No,49633.18
+154179,Pain Reliever,Pharmacy,"Barad, Devi And Andra",582.87,728.59,20.0,365,10,59,49,20.0,No,34389.33
+298985,Vitamins,Pharmacy,"Ramanathan, Joshi And Srinivasan",183.76,229.7,20.0,365,11,61,50,20.0,No,11209.36
+444361,Pain Reliever,Pharmacy,"Prakash, Bawa And Kale",822.63,1028.29,20.0,365,20,71,51,20.0,No,58406.73
+679284,Cough Syrup,Pharmacy,Pant Llc,877.89,1097.36,20.0,365,28,95,67,20.0,No,83399.55
+240179,Cough Syrup,Pharmacy,Ram-Suri,90.56,113.2,20.0,365,20,56,36,20.0,No,5071.36
+673058,Cough Syrup,Pharmacy,Balan-Madan,765.76,957.2,20.0,365,30,94,64,20.0,No,71981.44
+114414,Vitamins,Pharmacy,Kara-Golla,832.06,1040.07,20.0,365,26,66,40,20.0,No,54915.96
